@@ -1,0 +1,10 @@
+com\example\studentmanagement\entity\Student.class
+com\example\studentmanagement\exception\ErrorResponse.class
+com\example\studentmanagement\repository\StudentRepository.class
+com\example\studentmanagement\exception\GlobalExceptionHandler.class
+com\example\studentmanagement\controller\StudentController.class
+com\example\studentmanagement\StudentManagementApplication.class
+com\example\studentmanagement\config\WebConfig.class
+com\example\studentmanagement\service\StudentService.class
+com\example\studentmanagement\config\OpenAPIConfig.class
+com\example\studentmanagement\exception\ResourceNotFoundException.class
