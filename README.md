@@ -75,3 +75,9 @@ mvn test
 ## Licence
 
 MIT
+<img width="945" height="311" alt="image" src="https://github.com/user-attachments/assets/078c4223-6fb4-49e0-a7f0-5297b0e534d8" />
+
+<img width="945" height="492" alt="image" src="https://github.com/user-attachments/assets/e327c90a-aaf0-4f54-8822-52edfddeff6c" />
+
+<img width="945" height="504" alt="image" src="https://github.com/user-attachments/assets/68a8c414-2b98-418c-88fc-a6ea2726bce1" />
+
